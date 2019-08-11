@@ -6,4 +6,6 @@ public class User {
      * a用户修改了代码
      */
     private String age;
+
+    private String aUser;
 }
